@@ -1,0 +1,10 @@
+C:\Users\etudiant\Desktop\LabChiffrerEtDéchiffrer\Lab Chiffrer Et Déchiffrer\Lab Chiffrer Et Déchiffrer\obj\Debug\Lab Chiffrer Et Déchiffrer.csproj.AssemblyReference.cache
+C:\Users\etudiant\Desktop\LabChiffrerEtDéchiffrer\Lab Chiffrer Et Déchiffrer\Lab Chiffrer Et Déchiffrer\obj\Debug\ChiffrerEtDechiffrer.Form1.resources
+C:\Users\etudiant\Desktop\LabChiffrerEtDéchiffrer\Lab Chiffrer Et Déchiffrer\Lab Chiffrer Et Déchiffrer\obj\Debug\Lab_Chiffrer_Et_Déchiffrer.Properties.Resources.resources
+C:\Users\etudiant\Desktop\LabChiffrerEtDéchiffrer\Lab Chiffrer Et Déchiffrer\Lab Chiffrer Et Déchiffrer\obj\Debug\Lab Chiffrer Et Déchiffrer.csproj.GenerateResource.cache
+C:\Users\etudiant\Desktop\LabChiffrerEtDéchiffrer\Lab Chiffrer Et Déchiffrer\Lab Chiffrer Et Déchiffrer\obj\Debug\Lab Chiffrer Et Déchiffrer.csproj.CoreCompileInputs.cache
+C:\Users\etudiant\Desktop\LabChiffrerEtDéchiffrer\Lab Chiffrer Et Déchiffrer\Lab Chiffrer Et Déchiffrer\bin\Debug\Lab Chiffrer Et Déchiffrer.exe.config
+C:\Users\etudiant\Desktop\LabChiffrerEtDéchiffrer\Lab Chiffrer Et Déchiffrer\Lab Chiffrer Et Déchiffrer\bin\Debug\Lab Chiffrer Et Déchiffrer.exe
+C:\Users\etudiant\Desktop\LabChiffrerEtDéchiffrer\Lab Chiffrer Et Déchiffrer\Lab Chiffrer Et Déchiffrer\bin\Debug\Lab Chiffrer Et Déchiffrer.pdb
+C:\Users\etudiant\Desktop\LabChiffrerEtDéchiffrer\Lab Chiffrer Et Déchiffrer\Lab Chiffrer Et Déchiffrer\obj\Debug\Lab Chiffrer Et Déchiffrer.exe
+C:\Users\etudiant\Desktop\LabChiffrerEtDéchiffrer\Lab Chiffrer Et Déchiffrer\Lab Chiffrer Et Déchiffrer\obj\Debug\Lab Chiffrer Et Déchiffrer.pdb
